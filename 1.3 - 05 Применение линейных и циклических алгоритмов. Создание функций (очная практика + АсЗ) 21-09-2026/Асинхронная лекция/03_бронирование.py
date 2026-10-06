@@ -27,7 +27,3 @@ while True:
 print('Итоговое состояние бронирования мест.')
 for seat in seats:
     print(f'{seat[0]}: {seat[1]}')
-
-
-
-)
