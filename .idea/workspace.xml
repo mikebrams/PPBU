@@ -54,6 +54,8 @@
     "Python.00_GE_work02_обработка движений мыши.executor": "Run",
     "Python.00_GE_work03_метод_focus.executor": "Run",
     "Python.00_GE_work04.executor": "Run",
+    "Python.00_GE_work05_bind.executor": "Run",
+    "Python.00_GE_work05_grid.executor": "Run",
     "Python.01_.executor": "Run",
     "Python.01_decorator.executor": "Run",
     "Python.01_graphic_editor_dz4.executor": "Run",
@@ -73,12 +75,21 @@
     "Python.03_бронирование.executor": "Run",
     "Python.04_.executor": "Run",
     "Python.04_decoder.executor": "Run",
+    "Python.04_graphic_editor_dz4.executor": "Run",
     "Python.04_spinbox.executor": "Run",
+    "Python.04_Декораторы.executor": "Run",
     "Python.04_работа_с_файлами.executor": "Run",
+    "Python.05_graphic_editor_dz4.executor": "Run",
     "Python.05_open_json.executor": "Run",
     "Python.05_работа_с_файлами.executor": "Run",
+    "Python.06_bron.executor": "Run",
+    "Python.06_graphic_editor_dz4.executor": "Run",
     "Python.06_работа_с_файлами.executor": "Run",
     "Python.07_count_words_in_file.executor": "Run",
+    "Python.07_graphic_editor_dz4.executor": "Run",
+    "Python.07_icecream.executor": "Run",
+    "Python.07_icecream2.executor": "Run",
+    "Python.08_graphic_editor_dz4.executor": "Run",
     "Python.08_построчная_обработка_файла.executor": "Run",
     "Python.09_генератор_поздравлений.executor": "Run",
     "Python.1.2.3_01.executor": "Run",
@@ -115,6 +126,7 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Projects\OsnovaniePy2026\Задание 4 - до 16.10.2026" />
+      <recent name="D:\Projects\OsnovaniePy2026\2.4 - 01 Нормативные документы регламентирующие разработку ПО (онлайн-лекция) 12-10-2026" />
       <recent name="D:\Projects\OsnovaniePy2026\Листинги" />
       <recent name="D:\Projects\OsnovaniePy2026\2.1 - 03 Работа с методами модуля Tkinter (асинхронная практика) 26-09-2026" />
       <recent name="D:\Projects\OsnovaniePy2026\1.3 - 05 Применение линейных и циклических алгоритмов. Создание функций (очная практика + АсЗ) 21-09-2026\Асинхронная лекция" />
@@ -216,7 +228,15 @@
       <option name="project" value="LOCAL" />
       <updated>1791785240989</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="12-10-2026-01">
+      <option name="closed" value="true" />
+      <created>1791799043805</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1791799043805</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -237,5 +257,16 @@
     <MESSAGE value="07-10-2026" />
     <MESSAGE value="12-10-2026-01" />
     <option name="LAST_COMMIT_MESSAGE" value="12-10-2026-01" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Задание 4 - до 16.10.2026/Graf_01.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

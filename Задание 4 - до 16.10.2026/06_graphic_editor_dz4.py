@@ -1,0 +1,77 @@
+from tkinter import *
+from tkinter import filedialog as fd
+from tkinter import messagebox as mb
+from PIL import Image, ImageTk, ImageGrab
+
+
+def draw(event):
+    """Функция рисования на холсте"""
+    # при нажатии левой клавиши мыши и движении в x, y передаются координаты курсора
+    x, y = event.x, event.y
+    # создается овал в квадрате с координатами x, y - верхняя левая точка, x + 5, y + 5 - нижняя правая точка
+    canvas.create_oval(x, y, x + 5, y + 5, fill=pen_color, outline=pen_color)
+
+
+def load_image():
+    try:
+        file_path = fd.askopenfilename(title='Выбрать файл',
+                                       filetypes=[('Image files', '*.png;*.jpg;*.jpeg;*.bmp;*.gif')])
+        if file_path:
+            image = Image.open(file_path)           # Открываем картинку
+            image = image.resize((600, 400))        # Подгоняем ее под размер окна
+            image_tk = ImageTk.PhotoImage(image)    # Преобразование картинки под интерфейс Tk
+            canvas.create_image(0, 0, anchor=NW, image=image_tk)
+            canvas.image = image_tk
+    except Exception as e:
+        mb.showerror('Ошибка', f'Не удалось загрузить файл из-за ошибки:\n{e}')
+
+
+def save_image():
+    try:
+        file_path = fd.asksaveasfilename(defaultextension='*.png', filetypes=[('PNG files', '*.png')])
+        if file_path:
+            x = root.winfo_rootx() + canvas.winfo_x()
+            y = root.winfo_rooty() + canvas.winfo_y()
+            x1 = x + canvas.winfo_width()
+            y1 = y + canvas.winfo_height()
+            ImageGrab.grab().crop((x, y, x1, y1)).save(file_path)
+            mb.showinfo('Сохранено', 'Изображение успешно сохранено.')
+    except Exception as e:
+        mb.showerror('Ошибка', f'Не удалось сохранить файл из-за ошибки:\n{e}')
+
+
+def quit_editor():
+    root.destroy()
+
+
+root = Tk()
+root.title('Графический редактор')
+w = root.winfo_screenwidth()                    # ???
+h = root.winfo_screenheight()
+w2 = w // 4 - 300
+h2 = h // 3 - 200
+root.geometry(f'610x440+{w2}+{h2}')
+
+pen_color = 'black'
+canvas = Canvas(root, width=600, height=400, bg='WhiteSmoke')
+canvas.pack()
+canvas.bind("<B1-Motion>", draw)
+
+colors = ['red', 'green', 'blue', 'black', "yellow", "gray"]
+for color in colors:
+    lbl = Label(root, bg=color, width=8, height=2)
+    lbl.pack(side=LEFT)
+    lbl.bind("<Button-1>", lambda e, c=color: globals().update(pen_color=c))
+
+mainmenu = Menu(root)           # основное меню
+root.config(menu=mainmenu)
+
+file_menu = Menu(mainmenu, tearoff=0)
+mainmenu.add_cascade(label='Файл', menu=file_menu)   # подвязывание к главному меню
+file_menu.add_command(label='Загрузить изображение', command=load_image)
+file_menu.add_command(label='Сохранить изображение', command=save_image)
+file_menu.add_separator()
+file_menu.add_command(label='Выход', command=quit_editor)
+
+
+root.mainloop()

@@ -13,3 +13,7 @@ Entry().pack()
 window.bind("<Tab>", next_widget)
 
 window.mainloop()     #Bind_04.py
+
+
+
+
