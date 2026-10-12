@@ -55,6 +55,7 @@
     "Python.00_GE_work03_метод_focus.executor": "Run",
     "Python.00_GE_work04.executor": "Run",
     "Python.01_.executor": "Run",
+    "Python.01_decorator.executor": "Run",
     "Python.01_graphic_editor_dz4.executor": "Run",
     "Python.01_listbox.executor": "Run",
     "Python.01_task_Дартс(Матрицы).executor": "Run",
@@ -65,13 +66,16 @@
     "Python.02_имена и телефоны.executor": "Run",
     "Python.02_телефонный справочник.executor": "Run",
     "Python.03_.executor": "Run",
+    "Python.03_coder.executor": "Run",
     "Python.03_graphic_editor_dz4.executor": "Run",
     "Python.03_pillow.executor": "Run",
     "Python.03_pillow_вторичные окна.executor": "Run",
     "Python.03_бронирование.executor": "Run",
     "Python.04_.executor": "Run",
+    "Python.04_decoder.executor": "Run",
     "Python.04_spinbox.executor": "Run",
     "Python.04_работа_с_файлами.executor": "Run",
+    "Python.05_open_json.executor": "Run",
     "Python.05_работа_с_файлами.executor": "Run",
     "Python.06_работа_с_файлами.executor": "Run",
     "Python.07_count_words_in_file.executor": "Run",
@@ -93,6 +97,7 @@
     "Python.77_Вывод в метку значений onvalue и offvalue.executor": "Run",
     "Python.Graf_01.executor": "Run",
     "Python.calc_dz3.executor": "Run",
+    "Python.open_file.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
@@ -117,6 +122,35 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Projects\OsnovaniePy2026\Листинги" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="01_decorator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="OsnovaniePy2026" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2.4 - 01 Нормативные документы регламентирующие разработку ПО (онлайн-лекция) 12-10-2026" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2.4 - 01 Нормативные документы регламентирующие разработку ПО (онлайн-лекция) 12-10-2026/01_decorator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.01_decorator" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -174,7 +208,15 @@
       <option name="project" value="LOCAL" />
       <updated>1791372083236</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="12-10-2026-01">
+      <option name="closed" value="true" />
+      <created>1791785240989</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1791785240989</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -193,6 +235,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="06-10-2026" />
     <MESSAGE value="07-10-2026" />
-    <option name="LAST_COMMIT_MESSAGE" value="07-10-2026" />
+    <MESSAGE value="12-10-2026-01" />
+    <option name="LAST_COMMIT_MESSAGE" value="12-10-2026-01" />
   </component>
 </project>
