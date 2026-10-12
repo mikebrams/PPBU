@@ -1,0 +1,10 @@
+1 [INFO] 2023-01-01 10:00:00 App started
+2 [ERROR] 2023-01-01 10:00:00 Failed to load
+3 [WARNING] 2023-01-01 10:00:00 Configuration is missing
+4 [INFO] 2023-01-01 10:00:00 App started
+5 [INFO] 2023-01-01 10:00:00 App started
+6 [ERROR] 2023-01-01 10:00:00 Failed to load
+7 [WARNING] 2023-01-01 10:00:00 Configuration is missing
+8 [INFO] 2023-01-01 10:00:00 App started
+9 [ERROR] 2023-01-01 10:00:00 Failed to load
+10 [WARNING] 2023-01-01 10:00:00 Configuration is missing
