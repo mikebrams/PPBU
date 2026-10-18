@@ -47,89 +47,99 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.00_GE_work01.executor": "Run",
-    "Python.00_GE_work02.executor": "Run",
-    "Python.00_GE_work02_обработка движений мыши.executor": "Run",
-    "Python.00_GE_work03_метод_focus.executor": "Run",
-    "Python.00_GE_work04.executor": "Run",
-    "Python.00_GE_work05_bind.executor": "Run",
-    "Python.00_GE_work05_grid.executor": "Run",
-    "Python.01_.executor": "Run",
-    "Python.01_decorator.executor": "Run",
-    "Python.01_graphic_editor_dz4.executor": "Run",
-    "Python.01_listbox.executor": "Run",
-    "Python.01_task_Дартс(Матрицы).executor": "Run",
-    "Python.02_.executor": "Run",
-    "Python.02_graphic_editor_dz4.executor": "Run",
-    "Python.02_listbox2.executor": "Run",
-    "Python.02_task_Скобочная последовательность.executor": "Run",
-    "Python.02_имена и телефоны.executor": "Run",
-    "Python.02_телефонный справочник.executor": "Run",
-    "Python.03_.executor": "Run",
-    "Python.03_coder.executor": "Run",
-    "Python.03_graphic_editor_dz4.executor": "Run",
-    "Python.03_pillow.executor": "Run",
-    "Python.03_pillow_вторичные окна.executor": "Run",
-    "Python.03_бронирование.executor": "Run",
-    "Python.04_.executor": "Run",
-    "Python.04_decoder.executor": "Run",
-    "Python.04_graphic_editor_dz4.executor": "Run",
-    "Python.04_spinbox.executor": "Run",
-    "Python.04_Декораторы.executor": "Run",
-    "Python.04_работа_с_файлами.executor": "Run",
-    "Python.05_graphic_editor_dz4.executor": "Run",
-    "Python.05_open_json.executor": "Run",
-    "Python.05_работа_с_файлами.executor": "Run",
-    "Python.06_bron.executor": "Run",
-    "Python.06_graphic_editor_dz4.executor": "Run",
-    "Python.06_работа_с_файлами.executor": "Run",
-    "Python.07_count_words_in_file.executor": "Run",
-    "Python.07_graphic_editor_dz4.executor": "Run",
-    "Python.07_icecream.executor": "Run",
-    "Python.07_icecream2.executor": "Run",
-    "Python.08_graphic_editor_dz4.executor": "Run",
-    "Python.08_построчная_обработка_файла.executor": "Run",
-    "Python.09_генератор_поздравлений.executor": "Run",
-    "Python.1.2.3_01.executor": "Run",
-    "Python.10_filewrite_дневник_погоды.executor": "Run",
-    "Python.2.1.3_01.executor": "Run",
-    "Python.2.1.3_02.executor": "Run",
-    "Python.2.1.3_02_Открыть файл Вставка текста.executor": "Debug",
-    "Python.2.1.3_03.executor": "Run",
-    "Python.2.3.1_.executor": "Run",
-    "Python.2.3.1_01_Клавиатурный тренажер.executor": "Run",
-    "Python.2.3.1_02_Бронирование мест.executor": "Run",
-    "Python.2.3.3_.executor": "Run",
-    "Python.24. Черновик под лупой.executor": "Run",
-    "Python.25. Заказ для мастерской.executor": "Run",
-    "Python.77_partition.executor": "Run",
-    "Python.77_Вывод в метку значений onvalue и offvalue.executor": "Run",
-    "Python.Graf_01.executor": "Run",
-    "Python.calc_dz3.executor": "Run",
-    "Python.open_file.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/Projects/OsnovaniePy2026/Задание 4 - до 16.10.2026",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.00_GE_work01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.00_GE_work02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.00_GE_work02_обработка движений мыши.executor&quot;: &quot;Run&quot;,
+    &quot;Python.00_GE_work03_метод_focus.executor&quot;: &quot;Run&quot;,
+    &quot;Python.00_GE_work04.executor&quot;: &quot;Run&quot;,
+    &quot;Python.00_GE_work04_bind_lambda.executor&quot;: &quot;Run&quot;,
+    &quot;Python.00_GE_work05_bind.executor&quot;: &quot;Run&quot;,
+    &quot;Python.00_GE_work05_grid.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_decorator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_graphic_editor_dz4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_listbox.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_request.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_task_Дартс(Матрицы).executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_cataas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_cataas2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_cataas3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_cataas3_отерытие в новом окне.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_graphic_editor_dz4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_listbox2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_task_Скобочная последовательность.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_имена и телефоны.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_телефонный справочник.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_coder.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_combobox.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_graphic_editor_dz4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_pillow.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_pillow_вторичные окна.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_бронирование.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04_.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04_decoder.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04_graphic_editor_dz4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04_spinbox.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04_Декораторы.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04_работа_с_файлами.executor&quot;: &quot;Run&quot;,
+    &quot;Python.05_graphic_editor_dz4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.05_open_json.executor&quot;: &quot;Run&quot;,
+    &quot;Python.05_работа_с_файлами.executor&quot;: &quot;Run&quot;,
+    &quot;Python.06_bron.executor&quot;: &quot;Run&quot;,
+    &quot;Python.06_graphic_editor_dz4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.06_работа_с_файлами.executor&quot;: &quot;Run&quot;,
+    &quot;Python.07_count_words_in_file.executor&quot;: &quot;Run&quot;,
+    &quot;Python.07_graphic_editor_dz4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.07_icecream.executor&quot;: &quot;Run&quot;,
+    &quot;Python.07_icecream2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.08_graphic_editor_dz4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.08_построчная_обработка_файла.executor&quot;: &quot;Run&quot;,
+    &quot;Python.09_graphic_editor_dz4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.09_генератор_поздравлений.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1.2.3_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10_filewrite_дневник_погоды.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10_graphic_editor_dz4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.14. 15. Поиск породы.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.1.3_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.1.3_02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.1.3_02_Открыть файл Вставка текста.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.2.1.3_03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.3.1_.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.3.1_01_Клавиатурный тренажер.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.3.1_02_Бронирование мест.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.3.3_.executor&quot;: &quot;Run&quot;,
+    &quot;Python.24. Черновик под лупой.executor&quot;: &quot;Run&quot;,
+    &quot;Python.25. Заказ для мастерской.executor&quot;: &quot;Run&quot;,
+    &quot;Python.77_partition.executor&quot;: &quot;Run&quot;,
+    &quot;Python.77_Вывод в метку значений onvalue и offvalue.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Graf_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.calc_dz3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.open_file.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Projects/OsnovaniePy2026/Задание 4 - до 16.10.2026&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   },
-  "keyToStringList": {
-    "GitStage.ChangesTree.GroupingKeys": [
-      "directory",
-      "repository"
+  &quot;keyToStringList&quot;: {
+    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;repository&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Projects\OsnovaniePy2026\Задание 4 - до 16.10.2026" />
+      <recent name="D:\Projects\OsnovaniePy2026\3.1. - 01 Знакомство с продвинутыми методами Tkinter (онлайн-лекция)" />
       <recent name="D:\Projects\OsnovaniePy2026\2.4 - 01 Нормативные документы регламентирующие разработку ПО (онлайн-лекция) 12-10-2026" />
       <recent name="D:\Projects\OsnovaniePy2026\Листинги" />
       <recent name="D:\Projects\OsnovaniePy2026\2.1 - 03 Работа с методами модуля Tkinter (асинхронная практика) 26-09-2026" />
-      <recent name="D:\Projects\OsnovaniePy2026\1.3 - 05 Применение линейных и циклических алгоритмов. Создание функций (очная практика + АсЗ) 21-09-2026\Асинхронная лекция" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Projects\OsnovaniePy2026\Листинги" />
@@ -236,7 +246,15 @@
       <option name="project" value="LOCAL" />
       <updated>1791799043805</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="12-10-2026-01">
+      <option name="closed" value="true" />
+      <created>1791843157019</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1791843157019</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
