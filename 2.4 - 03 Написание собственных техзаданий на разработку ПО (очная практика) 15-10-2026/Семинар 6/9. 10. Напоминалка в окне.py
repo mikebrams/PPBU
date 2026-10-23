@@ -1,10 +1,7 @@
 from tkinter import *
 from tkinter import messagebox as mb
 
-# chars = '0123456789'
-
 def is_time(s):
-    # TODO: проверьте форму и диапазоны времени.
     print(s)
     if len(s) != 5:
         return False
@@ -17,7 +14,6 @@ def is_time(s):
 
 
 def set_alarm():
-    # TODO: проверьте оба поля, покажите ошибку либо измените result.
 
     now = e1.get()
     alarm = e2.get()
@@ -46,7 +42,7 @@ def set_alarm():
 
 root = Tk()
 root.title('Напоминалка')
-root.geometry('380x240')
+root.geometry('250x110')
 
 l1 = Label(root, text='Сейчас:')
 l1.grid(column=0, row=0)

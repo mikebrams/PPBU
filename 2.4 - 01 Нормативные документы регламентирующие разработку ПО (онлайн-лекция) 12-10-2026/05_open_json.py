@@ -10,6 +10,7 @@ from idlelib.debugobj import ObjectTreeItem
 with open('dict.json', 'r', encoding='utf-8') as file:
     d = json.load(file)
 
+print(d)
 
 while True:
     word = input('Введите слово для перевода: ')

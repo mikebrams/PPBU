@@ -8,7 +8,7 @@ import requests
 def load_image(url):
     try:
         resp = requests.get(url)
-        resp.raise_for_status()
+        # resp.raise_for_status()
         image_data = BytesIO(resp.content)
         img = Image.open(image_data)        # img - превращает в картинку
         img.thumbnail((600, 480), Image.Resampling.LANCZOS)           # уменьшение картинки под окно

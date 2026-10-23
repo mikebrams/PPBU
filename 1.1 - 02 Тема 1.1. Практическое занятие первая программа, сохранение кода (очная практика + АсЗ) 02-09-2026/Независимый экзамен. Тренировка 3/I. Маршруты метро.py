@@ -46,7 +46,7 @@ for i in range(len(routes)):
                 for k in finish_line:
                     common = lines[j] & lines[k]
                     if common:
-                        transfers.append([*common, j, k])
+                        transfers.append([min(common), j, k])
             if transfers:
                 res = min(transfers)
                 print(1, res[1], res[0], res[2])
@@ -72,4 +72,21 @@ x a
 -1
 1 blue f green
 -1
+
+2
+first 3 s b a
+second 3 a b t
+1
+s t
+
+1 first a second    - correct
+
+1 b a first         - fact
+
+
+
+
+
+
+
 """
