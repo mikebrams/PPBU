@@ -8,3 +8,5 @@ def encode_text(image_path, text, output_path):
 
 encode_text('picture1.png', 'Parol 100500%@', 'encoded_image.png')
 print('Текст скрыт в изображении')
+
+# new commit 23-10-2026-02

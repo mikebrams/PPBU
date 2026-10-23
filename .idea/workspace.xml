@@ -49,6 +49,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests in 02_test_assert.py.executor": "Run",
+    "Python tests.Python tests in 03_test_assert_pytest.py.executor": "Run",
     "Python.00_GE_work01.executor": "Run",
     "Python.00_GE_work02.executor": "Run",
     "Python.00_GE_work02_обработка движений мыши.executor": "Run",
@@ -92,6 +94,7 @@
     "Python.03_pillow_вторичные окна.executor": "Run",
     "Python.03_бронирование.executor": "Run",
     "Python.04_.executor": "Run",
+    "Python.04_OOP_1.executor": "Run",
     "Python.04_decoder.executor": "Run",
     "Python.04_graphic_editor_dz4.executor": "Run",
     "Python.04_spinbox.executor": "Run",
@@ -158,13 +161,15 @@
     "Python.Graf_01.executor": "Run",
     "Python.L. Анализ логов доставки.executor": "Run",
     "Python.calc_dz3.executor": "Run",
+    "Python.fraction.executor": "Run",
+    "Python.fraction2.executor": "Run",
     "Python.open_file.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/Projects/StIgorLeon",
+    "last_opened_file_path": "D:/Projects/OsnovaniePy2026/3.2 - 01 3.2 Знакомство с API сайтов (онлайн-лекция) 23-10-2026",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   },
   "keyToStringList": {
@@ -185,6 +190,28 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Projects\OsnovaniePy2026\Листинги" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Python tests for 02_test_assert.test_sub" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="OsnovaniePy2026" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.2 - 01 3.2 Знакомство с API сайтов (онлайн-лекция) 23-10-2026" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;02_test_assert.test_sub&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for 02_test_assert.test_sub" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -274,7 +301,15 @@
       <option name="project" value="LOCAL" />
       <updated>1792341078248</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="23-10-2026-01">
+      <option name="closed" value="true" />
+      <created>1792748000733</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1792748000733</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -295,7 +330,8 @@
     <MESSAGE value="07-10-2026" />
     <MESSAGE value="12-10-2026-01" />
     <MESSAGE value="18-10-2026-01" />
-    <option name="LAST_COMMIT_MESSAGE" value="18-10-2026-01" />
+    <MESSAGE value="23-10-2026-01" />
+    <option name="LAST_COMMIT_MESSAGE" value="23-10-2026-01" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
