@@ -50,6 +50,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python tests.Python tests in 02_test_assert.py.executor": "Run",
+    "Python tests.Python tests in 03_stegan_02.py.executor": "Run",
     "Python tests.Python tests in 03_test_assert_pytest.py.executor": "Run",
     "Python.00_GE_work01.executor": "Run",
     "Python.00_GE_work02.executor": "Run",
@@ -60,8 +61,10 @@
     "Python.00_GE_work05_bind.executor": "Run",
     "Python.00_GE_work05_grid.executor": "Run",
     "Python.01_.executor": "Run",
+    "Python.01_FX_dz5.executor": "Run",
     "Python.01_decorator.executor": "Run",
     "Python.01_dog_seo.executor": "Run",
+    "Python.01_geolocation.executor": "Run",
     "Python.01_graphic_editor_dz4.executor": "Run",
     "Python.01_listbox.executor": "Run",
     "Python.01_parsing_request.executor": "Run",
@@ -77,6 +80,8 @@
     "Python.02_cataas2.executor": "Run",
     "Python.02_cataas3.executor": "Run",
     "Python.02_cataas3_отерытие в новом окне.executor": "Run",
+    "Python.02_coingecko.executor": "Run",
+    "Python.02_geomap.executor": "Run",
     "Python.02_graphic_editor_dz4.executor": "Run",
     "Python.02_listbox2.executor": "Run",
     "Python.02_task_Скобочная последовательность.executor": "Run",
@@ -90,8 +95,11 @@
     "Python.03_coder.executor": "Run",
     "Python.03_combobox.executor": "Run",
     "Python.03_graphic_editor_dz4.executor": "Run",
+    "Python.03_icon.executor": "Run",
     "Python.03_pillow.executor": "Run",
     "Python.03_pillow_вторичные окна.executor": "Run",
+    "Python.03_stegan_02.executor": "Run",
+    "Python.03_stegan_03.executor": "Run",
     "Python.03_бронирование.executor": "Run",
     "Python.04_.executor": "Run",
     "Python.04_OOP_1.executor": "Run",
@@ -167,9 +175,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "deletionFromPopupRequiresConfirmation": "false",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/Projects/OsnovaniePy2026/3.2 - 01 3.2 Знакомство с API сайтов (онлайн-лекция) 23-10-2026",
+    "last_opened_file_path": "D:/Projects/StIgorLeon",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   },
   "keyToStringList": {
@@ -181,37 +190,16 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\OsnovaniePy2026\2.3 - 03 Отладка с использованием инструментов PyCharm (асинхронная практика) 09-10-2026" />
       <recent name="D:\Projects\OsnovaniePy2026\3.2 - 01 3.2 Знакомство с API сайтов (онлайн-лекция) 23-10-2026" />
       <recent name="D:\Projects\OsnovaniePy2026\2.4 - 03 Написание собственных техзаданий на разработку ПО (очная практика) 15-10-2026\Семинар 6" />
       <recent name="D:\Projects\OsnovaniePy2026\3.1 - 05 Создание продвинутых оконных приложений с Tkinter (онлайн-практика) 21-10-2026" />
       <recent name="D:\Projects\OsnovaniePy2026\Задание 4 - до 16.10.2026" />
-      <recent name="D:\Projects\OsnovaniePy2026\2.2 - 03  Настройка PyCharm для совместной работы с Git (асинхронная практика) 01-10-2026" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\OsnovaniePy2026\ИКР" />
       <recent name="D:\Projects\OsnovaniePy2026\Листинги" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="Python tests for 02_test_assert.test_sub" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="OsnovaniePy2026" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.2 - 01 3.2 Знакомство с API сайтов (онлайн-лекция) 23-10-2026" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;02_test_assert.test_sub&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python tests.Python tests for 02_test_assert.test_sub" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -309,7 +297,15 @@
       <option name="project" value="LOCAL" />
       <updated>1792748000733</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="23-10-2026-02">
+      <option name="closed" value="true" />
+      <created>1792756323122</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1792756323122</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -318,6 +314,17 @@
         <entry key="MAIN">
           <value>
             <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="PPBU/HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
               <option name="SHOW_DETAILS_IN_CHANGES" value="false" />
             </State>
           </value>
@@ -331,7 +338,8 @@
     <MESSAGE value="12-10-2026-01" />
     <MESSAGE value="18-10-2026-01" />
     <MESSAGE value="23-10-2026-01" />
-    <option name="LAST_COMMIT_MESSAGE" value="23-10-2026-01" />
+    <MESSAGE value="23-10-2026-02" />
+    <option name="LAST_COMMIT_MESSAGE" value="23-10-2026-02" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
