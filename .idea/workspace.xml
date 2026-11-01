@@ -62,8 +62,10 @@
     "Python.00_GE_work05_grid.executor": "Run",
     "Python.01_.executor": "Run",
     "Python.01_FX_dz5.executor": "Run",
+    "Python.01_OS.executor": "Run",
     "Python.01_decorator.executor": "Run",
     "Python.01_dog_seo.executor": "Run",
+    "Python.01_game_ball.executor": "Run",
     "Python.01_geolocation.executor": "Run",
     "Python.01_graphic_editor_dz4.executor": "Run",
     "Python.01_listbox.executor": "Run",
@@ -72,7 +74,11 @@
     "Python.01_task_Дартс(Матрицы).executor": "Run",
     "Python.01_Клавиатурный_тренажер.executor": "Run",
     "Python.01_валюта4.executor": "Run",
+    "Python.01_менеджер_паролей.executor": "Run",
+    "Python.01_регулярные_выражения.executor": "Run",
     "Python.02_.executor": "Run",
+    "Python.02_OS.executor": "Run",
+    "Python.02_OS_2.executor": "Run",
     "Python.02_booking_бронирование.executor": "Run",
     "Python.02_booking_бронирование2.executor": "Run",
     "Python.02_booking_бронирование3-bind-focus.executor": "Run",
@@ -84,34 +90,49 @@
     "Python.02_geomap.executor": "Run",
     "Python.02_graphic_editor_dz4.executor": "Run",
     "Python.02_listbox2.executor": "Run",
+    "Python.02_numpy.executor": "Run",
     "Python.02_task_Скобочная последовательность.executor": "Run",
     "Python.02_work.executor": "Run",
     "Python.02_валюта.executor": "Run",
     "Python.02_валюта2_с_выпадающим_списком.executor": "Run",
     "Python.02_валюта3_с_выпадающим_списком.executor": "Run",
     "Python.02_имена и телефоны.executor": "Run",
+    "Python.02_менеджер_паролей.executor": "Run",
     "Python.02_телефонный справочник.executor": "Run",
     "Python.03_.executor": "Run",
+    "Python.03_OOP_агрегирование.executor": "Run",
     "Python.03_coder.executor": "Run",
     "Python.03_combobox.executor": "Run",
     "Python.03_graphic_editor_dz4.executor": "Run",
     "Python.03_icon.executor": "Run",
     "Python.03_pillow.executor": "Run",
     "Python.03_pillow_вторичные окна.executor": "Run",
+    "Python.03_shutil.executor": "Run",
+    "Python.03_shutil_Copytree.executor": "Run",
     "Python.03_stegan_02.executor": "Run",
     "Python.03_stegan_03.executor": "Run",
     "Python.03_бронирование.executor": "Run",
+    "Python.03_проверка_телефона.executor": "Run",
     "Python.04_.executor": "Run",
+    "Python.04_Deepseek.executor": "Run",
+    "Python.04_OOP4_абстрактный_класс.executor": "Run",
     "Python.04_OOP_1.executor": "Run",
     "Python.04_decoder.executor": "Run",
     "Python.04_graphic_editor_dz4.executor": "Run",
+    "Python.04_raschet.executor": "Run",
+    "Python.04_shutil_Copyimages.executor": "Run",
+    "Python.04_shutil_Sortfiles.executor": "Run",
     "Python.04_spinbox.executor": "Run",
     "Python.04_Декораторы.executor": "Run",
     "Python.04_работа_с_файлами.executor": "Run",
+    "Python.05_.executor": "Run",
+    "Python.05_ChatGPT.executor": "Run",
     "Python.05_graphic_editor_dz4.executor": "Run",
     "Python.05_open_json.executor": "Run",
     "Python.05_open_json2.executor": "Run",
     "Python.05_работа_с_файлами.executor": "Run",
+    "Python.06_.executor": "Debug",
+    "Python.06_Google.executor": "Run",
     "Python.06_bron.executor": "Run",
     "Python.06_graphic_editor_dz4.executor": "Run",
     "Python.06_работа_с_файлами.executor": "Run",
@@ -134,6 +155,7 @@
     "Python.16. 17. Подпись по выбору4.executor": "Run",
     "Python.16. 17. Подпись по выбору5.executor": "Run",
     "Python.16. 17. Подпись по выбору6.executor": "Run",
+    "Python.16. 17. Подпись по выбору8.executor": "Run",
     "Python.17. 18. Первый JSON.executor": "Run",
     "Python.18. 19. Курс внутри ответа.executor": "Run",
     "Python.19. 20. Ответ в несколько строк.executor": "Run",
@@ -168,6 +190,7 @@
     "Python.9. 10. Напоминалка в окне.executor": "Run",
     "Python.Graf_01.executor": "Run",
     "Python.L. Анализ логов доставки.executor": "Run",
+    "Python.OOP4_абстрактный_класс.executor": "Run",
     "Python.calc_dz3.executor": "Run",
     "Python.fraction.executor": "Run",
     "Python.fraction2.executor": "Run",
@@ -178,8 +201,8 @@
     "deletionFromPopupRequiresConfirmation": "false",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/Projects/StIgorLeon",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+    "last_opened_file_path": "D:/Projects/OsnovaniePy2026/3.2 - 05 Часть 2. Работа с API сайтов. Использование данных в формате JSON (онлайн-практика) 30-10-2026",
+    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog"
   },
   "keyToStringList": {
     "GitStage.ChangesTree.GroupingKeys": [
@@ -190,13 +213,14 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\OsnovaniePy2026\3.2 - 05 Часть 2. Работа с API сайтов. Использование данных в формате JSON (онлайн-практика) 30-10-2026" />
+      <recent name="D:\Projects\OsnovaniePy2026\3.1 - 02 Создание продвинутых оконных приложений с Tkinter (асинхронная практика_1) 17-10-2026" />
+      <recent name="D:\Projects\OsnovaniePy2026\2.4 - 03 Написание собственных техзаданий на разработку ПО (очная практика) 15-10-2026\Семинар 6" />
       <recent name="D:\Projects\OsnovaniePy2026\2.3 - 03 Отладка с использованием инструментов PyCharm (асинхронная практика) 09-10-2026" />
       <recent name="D:\Projects\OsnovaniePy2026\3.2 - 01 3.2 Знакомство с API сайтов (онлайн-лекция) 23-10-2026" />
-      <recent name="D:\Projects\OsnovaniePy2026\2.4 - 03 Написание собственных техзаданий на разработку ПО (очная практика) 15-10-2026\Семинар 6" />
-      <recent name="D:\Projects\OsnovaniePy2026\3.1 - 05 Создание продвинутых оконных приложений с Tkinter (онлайн-практика) 21-10-2026" />
-      <recent name="D:\Projects\OsnovaniePy2026\Задание 4 - до 16.10.2026" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\OsnovaniePy2026\3.2 - 03 Знакомство с API сайтов (онлайн-лекция) 27-10-2026" />
       <recent name="D:\Projects\OsnovaniePy2026\ИКР" />
       <recent name="D:\Projects\OsnovaniePy2026\Листинги" />
     </key>
@@ -305,7 +329,15 @@
       <option name="project" value="LOCAL" />
       <updated>1792756323122</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="28-10-2026 01">
+      <option name="closed" value="true" />
+      <created>1793175187816</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1793175187816</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -339,7 +371,8 @@
     <MESSAGE value="18-10-2026-01" />
     <MESSAGE value="23-10-2026-01" />
     <MESSAGE value="23-10-2026-02" />
-    <option name="LAST_COMMIT_MESSAGE" value="23-10-2026-02" />
+    <MESSAGE value="28-10-2026 01" />
+    <option name="LAST_COMMIT_MESSAGE" value="28-10-2026 01" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -361,6 +394,11 @@
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/3.1 - 01 Знакомство с продвинутыми методами Tkinter (онлайн-лекция) 16-10-2026/01_parsing_request.py</url>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Work/06_замыкания_01.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
