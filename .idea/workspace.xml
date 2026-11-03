@@ -192,9 +192,13 @@
     "Python.L. Анализ логов доставки.executor": "Run",
     "Python.OOP4_абстрактный_класс.executor": "Run",
     "Python.calc_dz3.executor": "Run",
+    "Python.client_tcp.executor": "Run",
     "Python.fraction.executor": "Run",
     "Python.fraction2.executor": "Run",
+    "Python.gad_get.executor": "Run",
+    "Python.humans.executor": "Run",
     "Python.open_file.executor": "Run",
+    "Python.sever_tcp.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -220,10 +224,39 @@
       <recent name="D:\Projects\OsnovaniePy2026\3.2 - 01 3.2 Знакомство с API сайтов (онлайн-лекция) 23-10-2026" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Projects\OsnovaniePy2026\3.2 - 03 Знакомство с API сайтов (онлайн-лекция) 27-10-2026" />
       <recent name="D:\Projects\OsnovaniePy2026\ИКР" />
+      <recent name="D:\Projects\OsnovaniePy2026\3.2 - 03 Знакомство с API сайтов (онлайн-лекция) 27-10-2026" />
       <recent name="D:\Projects\OsnovaniePy2026\Листинги" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="humans" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="OsnovaniePy2026" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.2 - 06 Часть 2. Работа с API сайтов. Использование данных в формате JSON (онлайн-практика) 02-11-2026" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.2 - 06 Часть 2. Работа с API сайтов. Использование данных в формате JSON (онлайн-практика) 02-11-2026/humans.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.humans" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -337,7 +370,23 @@
       <option name="project" value="LOCAL" />
       <updated>1793175187816</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="28-10-2026 01">
+      <option name="closed" value="true" />
+      <created>1793551407157</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1793551407157</updated>
+    </task>
+    <task id="LOCAL-00014" summary="28-10-2026 01">
+      <option name="closed" value="true" />
+      <created>1793551453851</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1793551453851</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
